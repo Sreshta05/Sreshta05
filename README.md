@@ -6,6 +6,9 @@
 - 📊 Skilled in data transformation and visualization on Tableau, Excel and Power BI
 - 🤖 Passionate about AI and data
 
+## Education
+- Bachelor of Computer Science at Acadia University
+
 ## Work Experience
 - Freelance Data Analyst
 - AI Teaching Assistant at Acadia University
