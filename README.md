@@ -2,7 +2,6 @@
 ![Purple Gradient Typographic Technology LinkedIn Banner](https://github.com/Sreshta05/Sreshta05/assets/76899515/5870df0d-9380-48a4-b247-1dbf439979aa)
 
 
-### Hi there 👋
 
 <!--
 **Sreshta05/Sreshta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
