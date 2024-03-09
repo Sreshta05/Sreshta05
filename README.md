@@ -18,7 +18,7 @@
 
 ## Skills
 - 💻 Tableau, Power BI, Excel
-- 🐍 Python, SQL
+- 🐍 Python, SQL, R
 - 💬 Communication, 🧠 Problem-solving, 👥 Teamwork, 🎖️ Leadership
 
 
