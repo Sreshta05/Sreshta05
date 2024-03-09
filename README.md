@@ -1,3 +1,6 @@
+
+![Uploading Purple Gradient Typographic Technology LinkedIn Banner.gif…]()
+
 ### Hi there 👋
 
 <!--
