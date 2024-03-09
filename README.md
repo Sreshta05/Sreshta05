@@ -22,11 +22,16 @@
 - 💬 Communication, 🧠 Problem-solving, 👥 Teamwork, 🎖️ Leadership
 
 
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreshta05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
+# Check out my projects below!
+
+<img src="https://raw.githubusercontent.com/Sreshta05/Sreshta05/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 <!--
